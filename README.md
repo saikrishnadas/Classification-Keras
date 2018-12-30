@@ -11,3 +11,6 @@ To predict Dog and Cat from the image using Deep CNN ( computer vision)
 
 # Installing Keras
 # pip install --upgrade keras
+
+# Note : 
+ There must variation in the loss and accuracy because i couldn't upload the whole dataset 
