@@ -1,16 +1,12 @@
-# Convolutional-Neural-Network-
+# Convolutional Neural Network
 To predict Dog and Cat from the image using Deep CNN ( computer vision)
 
-# Convolutional Neural Network
+# Requirements 
+pip install --upgrade --no-deps git+git://github.com/Theano/Theano.git
 
-# Installing Theano
-# pip install --upgrade --no-deps git+git://github.com/Theano/Theano.git
+pip install tensorflow
 
-# Installing Tensorflow
-# pip install tensorflow
+pip install --upgrade keras
 
-# Installing Keras
-# pip install --upgrade keras
-
-# Note : 
- There must variation in the loss and accuracy because i couldn't upload the whole dataset 
+# Note :
+ You can download the dataset from https://www.kaggle.com/c/dogs-vs-cats
