@@ -9,4 +9,5 @@ pip install tensorflow
 pip install --upgrade keras
 
 # Note :
- You can download the dataset from https://www.kaggle.com/c/dogs-vs-cats
+I haven't uploaded the whole dataset in this repo.
+You can download the dataset from https://www.kaggle.com/c/dogs-vs-cats
